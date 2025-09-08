@@ -1,0 +1,1910 @@
+[
+  {
+    "chapter_year": "01_2001",
+    "expected": 18,
+    "extracted": 23,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2002",
+    "expected": 11,
+    "extracted": 19,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2003",
+    "expected": 8,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2004",
+    "expected": 9,
+    "extracted": 16,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2005",
+    "expected": 9,
+    "extracted": 12,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2006",
+    "expected": 9,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2007",
+    "expected": 10,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2008",
+    "expected": 10,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2009",
+    "expected": 10,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2010",
+    "expected": 8,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2011",
+    "expected": 8,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2012",
+    "expected": 8,
+    "extracted": 31,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2014",
+    "expected": 8,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2015",
+    "expected": 8,
+    "extracted": 13,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2016",
+    "expected": 7,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2017",
+    "expected": 6,
+    "extracted": 2,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2018",
+    "expected": 10,
+    "extracted": 2,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2019",
+    "expected": 10,
+    "extracted": 11,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2020",
+    "expected": 10,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2021",
+    "expected": 13,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2022",
+    "expected": 9,
+    "extracted": 13,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2023",
+    "expected": 9,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "01_2024",
+    "expected": 5,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2001",
+    "expected": 10,
+    "extracted": 11,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2002",
+    "expected": 13,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2003",
+    "expected": 13,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2006",
+    "expected": 11,
+    "extracted": 12,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2007",
+    "expected": 12,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2008",
+    "expected": 12,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2009",
+    "expected": 13,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2010",
+    "expected": 11,
+    "extracted": 13,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2011",
+    "expected": 14,
+    "extracted": 16,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2012",
+    "expected": 15,
+    "extracted": 18,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2013",
+    "expected": 15,
+    "extracted": 18,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2014",
+    "expected": 16,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2015",
+    "expected": 15,
+    "extracted": 19,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2016",
+    "expected": 15,
+    "extracted": 17,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2017",
+    "expected": 14,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2018",
+    "expected": 13,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2019",
+    "expected": 13,
+    "extracted": 16,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2020",
+    "expected": 8,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2021",
+    "expected": 10,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2022",
+    "expected": 6,
+    "extracted": 11,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2023",
+    "expected": 6,
+    "extracted": 10,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "02_2024",
+    "expected": 6,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2001",
+    "expected": 14,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2002",
+    "expected": 15,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2003",
+    "expected": 15,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2004",
+    "expected": 16,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2006",
+    "expected": 14,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2007",
+    "expected": 17,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2008",
+    "expected": 18,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2009",
+    "expected": 17,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2010",
+    "expected": 17,
+    "extracted": 23,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2011",
+    "expected": 16,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2012",
+    "expected": 17,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2013",
+    "expected": 15,
+    "extracted": 18,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2014",
+    "expected": 15,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2015",
+    "expected": 14,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2016",
+    "expected": 14,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2017",
+    "expected": 13,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2018",
+    "expected": 8,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2019",
+    "expected": 13,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2020",
+    "expected": 12,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2021",
+    "expected": 14,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2022",
+    "expected": 12,
+    "extracted": 15,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2023",
+    "expected": 12,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "03_2024",
+    "expected": 11,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2007",
+    "expected": 13,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2008",
+    "expected": 11,
+    "extracted": 12,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2009",
+    "expected": 15,
+    "extracted": 17,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2010",
+    "expected": 13,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2011",
+    "expected": 11,
+    "extracted": 13,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2012",
+    "expected": 11,
+    "extracted": 13,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2013",
+    "expected": 10,
+    "extracted": 11,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2014",
+    "expected": 9,
+    "extracted": 10,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2015",
+    "expected": 11,
+    "extracted": 12,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2017",
+    "expected": 9,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2018",
+    "expected": 6,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2020",
+    "expected": 6,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2021",
+    "expected": 4,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2023",
+    "expected": 5,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "04_2024",
+    "expected": 5,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2001",
+    "expected": 14,
+    "extracted": 23,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2002",
+    "expected": 21,
+    "extracted": 38,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2003",
+    "expected": 32,
+    "extracted": 49,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2004",
+    "expected": 29,
+    "extracted": 43,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2005",
+    "expected": 21,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2006",
+    "expected": 27,
+    "extracted": 30,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2007",
+    "expected": 26,
+    "extracted": 33,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2008",
+    "expected": 25,
+    "extracted": 34,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2009",
+    "expected": 31,
+    "extracted": 40,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2010",
+    "expected": 31,
+    "extracted": 39,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2011",
+    "expected": 35,
+    "extracted": 46,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2012",
+    "expected": 38,
+    "extracted": 57,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2013",
+    "expected": 33,
+    "extracted": 49,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2014",
+    "expected": 36,
+    "extracted": 59,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2015",
+    "expected": 40,
+    "extracted": 60,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2016",
+    "expected": 45,
+    "extracted": 67,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2017",
+    "expected": 35,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2018",
+    "expected": 37,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2019",
+    "expected": 37,
+    "extracted": 46,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2020",
+    "expected": 34,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2021",
+    "expected": 14,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2022",
+    "expected": 28,
+    "extracted": 35,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2023",
+    "expected": 28,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "05_2024",
+    "expected": 27,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2008",
+    "expected": 6,
+    "extracted": 7,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2009",
+    "expected": 10,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2010",
+    "expected": 15,
+    "extracted": 16,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2011",
+    "expected": 18,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2013",
+    "expected": 23,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2014",
+    "expected": 22,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2015",
+    "expected": 17,
+    "extracted": 19,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2016",
+    "expected": 16,
+    "extracted": 18,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2017",
+    "expected": 11,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2018",
+    "expected": 11,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2020",
+    "expected": 4,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2021",
+    "expected": 6,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2023",
+    "expected": 4,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "06_2024",
+    "expected": 5,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2001",
+    "expected": 20,
+    "extracted": 32,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2002",
+    "expected": 15,
+    "extracted": 27,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2003",
+    "expected": 15,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2004",
+    "expected": 15,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2005",
+    "expected": 16,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2006",
+    "expected": 16,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2007",
+    "expected": 19,
+    "extracted": 30,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2008",
+    "expected": 23,
+    "extracted": 34,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2009",
+    "expected": 24,
+    "extracted": 29,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2010",
+    "expected": 24,
+    "extracted": 33,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2011",
+    "expected": 24,
+    "extracted": 35,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2012",
+    "expected": 22,
+    "extracted": 41,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2013",
+    "expected": 18,
+    "extracted": 29,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2014",
+    "expected": 20,
+    "extracted": 35,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2015",
+    "expected": 20,
+    "extracted": 33,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2016",
+    "expected": 20,
+    "extracted": 33,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2017",
+    "expected": 22,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2018",
+    "expected": 20,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2019",
+    "expected": 29,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2020",
+    "expected": 13,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2021",
+    "expected": 21,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2022",
+    "expected": 10,
+    "extracted": 11,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2023",
+    "expected": 10,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "07_2024",
+    "expected": 12,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2001",
+    "expected": 24,
+    "extracted": 29,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2002",
+    "expected": 22,
+    "extracted": 29,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2003",
+    "expected": 23,
+    "extracted": 31,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2004",
+    "expected": 32,
+    "extracted": 40,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2005",
+    "expected": 32,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2006",
+    "expected": 32,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2007",
+    "expected": 28,
+    "extracted": 33,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2008",
+    "expected": 34,
+    "extracted": 41,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2009",
+    "expected": 36,
+    "extracted": 39,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2010",
+    "expected": 36,
+    "extracted": 43,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2011",
+    "expected": 32,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2012",
+    "expected": 31,
+    "extracted": 38,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2013",
+    "expected": 33,
+    "extracted": 40,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2014",
+    "expected": 34,
+    "extracted": 42,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2015",
+    "expected": 34,
+    "extracted": 38,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2016",
+    "expected": 38,
+    "extracted": 44,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2017",
+    "expected": 32,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2018",
+    "expected": 35,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2019",
+    "expected": 35,
+    "extracted": 43,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2020",
+    "expected": 34,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2021",
+    "expected": 24,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2022",
+    "expected": 32,
+    "extracted": 35,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2023",
+    "expected": 30,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "08_2024",
+    "expected": 30,
+    "extracted": 2,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2001",
+    "expected": 16,
+    "extracted": 17,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2002",
+    "expected": 16,
+    "extracted": 17,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2003",
+    "expected": 14,
+    "extracted": 17,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2004",
+    "expected": 24,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2005",
+    "expected": 16,
+    "extracted": 19,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2006",
+    "expected": 18,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2007",
+    "expected": 19,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2008",
+    "expected": 16,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2009",
+    "expected": 16,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2010",
+    "expected": 17,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2011",
+    "expected": 18,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2012",
+    "expected": 21,
+    "extracted": 31,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2013",
+    "expected": 15,
+    "extracted": 18,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2014",
+    "expected": 20,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2015",
+    "expected": 19,
+    "extracted": 26,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2016",
+    "expected": 17,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2017",
+    "expected": 21,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2018",
+    "expected": 20,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2020",
+    "expected": 19,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2021",
+    "expected": 16,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2022",
+    "expected": 18,
+    "extracted": 17,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2023",
+    "expected": 17,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "09_2024",
+    "expected": 18,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2001",
+    "expected": 7,
+    "extracted": 10,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2002",
+    "expected": 13,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2003",
+    "expected": 13,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2004",
+    "expected": 16,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2005",
+    "expected": 14,
+    "extracted": 18,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2006",
+    "expected": 16,
+    "extracted": 23,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2007",
+    "expected": 18,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2008",
+    "expected": 15,
+    "extracted": 18,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2009",
+    "expected": 18,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2010",
+    "expected": 18,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2011",
+    "expected": 19,
+    "extracted": 28,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2012",
+    "expected": 19,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2013",
+    "expected": 15,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2014",
+    "expected": 15,
+    "extracted": 26,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2015",
+    "expected": 18,
+    "extracted": 29,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2016",
+    "expected": 15,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2017",
+    "expected": 15,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2018",
+    "expected": 17,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2019",
+    "expected": 19,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2020",
+    "expected": 19,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2021",
+    "expected": 9,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2022",
+    "expected": 15,
+    "extracted": 19,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2023",
+    "expected": 15,
+    "extracted": 19,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "10_2024",
+    "expected": 15,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2001",
+    "expected": 8,
+    "extracted": 9,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2002",
+    "expected": 7,
+    "extracted": 9,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2003",
+    "expected": 7,
+    "extracted": 11,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2004",
+    "expected": 4,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2005",
+    "expected": 4,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2006",
+    "expected": 4,
+    "extracted": 6,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2007",
+    "expected": 5,
+    "extracted": 7,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2008",
+    "expected": 6,
+    "extracted": 8,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2009",
+    "expected": 5,
+    "extracted": 7,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2010",
+    "expected": 5,
+    "extracted": 7,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2011",
+    "expected": 4,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2012",
+    "expected": 4,
+    "extracted": 6,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2013",
+    "expected": 4,
+    "extracted": 6,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2014",
+    "expected": 4,
+    "extracted": 6,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2015",
+    "expected": 4,
+    "extracted": 6,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2016",
+    "expected": 4,
+    "extracted": 6,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2017",
+    "expected": 4,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2018",
+    "expected": 4,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2019",
+    "expected": 19,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2020",
+    "expected": 4,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2021",
+    "expected": 8,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2022",
+    "expected": 4,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2023",
+    "expected": 4,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "11_2024",
+    "expected": 4,
+    "extracted": 2,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2001",
+    "expected": 19,
+    "extracted": 25,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2002",
+    "expected": 20,
+    "extracted": 26,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2003",
+    "expected": 21,
+    "extracted": 27,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2004",
+    "expected": 24,
+    "extracted": 31,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2005",
+    "expected": 20,
+    "extracted": 23,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2006",
+    "expected": 21,
+    "extracted": 33,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2007",
+    "expected": 30,
+    "extracted": 35,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2008",
+    "expected": 32,
+    "extracted": 42,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2009",
+    "expected": 36,
+    "extracted": 41,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2010",
+    "expected": 37,
+    "extracted": 43,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2011",
+    "expected": 42,
+    "extracted": 50,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2012",
+    "expected": 41,
+    "extracted": 59,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2013",
+    "expected": 34,
+    "extracted": 43,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2014",
+    "expected": 33,
+    "extracted": 45,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2015",
+    "expected": 36,
+    "extracted": 52,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2016",
+    "expected": 37,
+    "extracted": 52,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2017",
+    "expected": 47,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2018",
+    "expected": 38,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2019",
+    "expected": 37,
+    "extracted": 44,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2020",
+    "expected": 29,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2021",
+    "expected": 19,
+    "extracted": 39,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2022",
+    "expected": 31,
+    "extracted": 40,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2023",
+    "expected": 30,
+    "extracted": 40,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "12_2024",
+    "expected": 17,
+    "extracted": 4,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2001",
+    "expected": 16,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2002",
+    "expected": 17,
+    "extracted": 21,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2003",
+    "expected": 16,
+    "extracted": 19,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2004",
+    "expected": 18,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2005",
+    "expected": 18,
+    "extracted": 20,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2006",
+    "expected": 20,
+    "extracted": 22,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2007",
+    "expected": 21,
+    "extracted": 24,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2008",
+    "expected": 21,
+    "extracted": 23,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2010",
+    "expected": 26,
+    "extracted": 34,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2011",
+    "expected": 26,
+    "extracted": 28,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2012",
+    "expected": 28,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2013",
+    "expected": 27,
+    "extracted": 33,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2014",
+    "expected": 28,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2015",
+    "expected": 32,
+    "extracted": 39,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2016",
+    "expected": 33,
+    "extracted": 40,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2017",
+    "expected": 31,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2018",
+    "expected": 43,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2019",
+    "expected": 37,
+    "extracted": 38,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2020",
+    "expected": 28,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2021",
+    "expected": 16,
+    "extracted": 29,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2022",
+    "expected": 28,
+    "extracted": 27,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2023",
+    "expected": 28,
+    "extracted": 27,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "13_2024",
+    "expected": 28,
+    "extracted": 2,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2001",
+    "expected": 22,
+    "extracted": 34,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2002",
+    "expected": 21,
+    "extracted": 35,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2003",
+    "expected": 23,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2004",
+    "expected": 23,
+    "extracted": 38,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2005",
+    "expected": 21,
+    "extracted": 28,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2006",
+    "expected": 30,
+    "extracted": 38,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2007",
+    "expected": 25,
+    "extracted": 37,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2008",
+    "expected": 29,
+    "extracted": 43,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2009",
+    "expected": 34,
+    "extracted": 45,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2010",
+    "expected": 35,
+    "extracted": 39,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2011",
+    "expected": 38,
+    "extracted": 44,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2012",
+    "expected": 41,
+    "extracted": 55,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2013",
+    "expected": 47,
+    "extracted": 60,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2014",
+    "expected": 41,
+    "extracted": 10,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2015",
+    "expected": 34,
+    "extracted": 42,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2016",
+    "expected": 39,
+    "extracted": 45,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2017",
+    "expected": 29,
+    "extracted": 1,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2018",
+    "expected": 28,
+    "extracted": 2,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2019",
+    "expected": 31,
+    "extracted": 36,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2020",
+    "expected": 23,
+    "extracted": 2,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2021",
+    "expected": 22,
+    "extracted": 26,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2022",
+    "expected": 24,
+    "extracted": 26,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2023",
+    "expected": 25,
+    "extracted": 28,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "14_2024",
+    "expected": 25,
+    "extracted": 6,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "15_2005",
+    "expected": 9,
+    "extracted": 5,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "15_2011",
+    "expected": 11,
+    "extracted": 12,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "15_2013",
+    "expected": 15,
+    "extracted": 14,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "15_2014",
+    "expected": 9,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "15_2015",
+    "expected": 10,
+    "extracted": 12,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "15_2017",
+    "expected": 10,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  },
+  {
+    "chapter_year": "15_2021",
+    "expected": 18,
+    "extracted": 0,
+    "error_type": "count_mismatch"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "priority": "high",
+    "chapter": "01",
+    "year": 2012,
+    "extracted_count": 31,
+    "expected_range": "5.9-20.2",
+    "deviation": "137.6%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "01",
+    "year": 2017,
+    "extracted_count": 2,
+    "expected_range": "5.9-20.2",
+    "deviation": "84.7%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "01",
+    "year": 2018,
+    "extracted_count": 2,
+    "expected_range": "5.9-20.2",
+    "deviation": "84.7%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "01",
+    "year": 2020,
+    "extracted_count": 1,
+    "expected_range": "5.9-20.2",
+    "deviation": "92.3%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "01",
+    "year": 2024,
+    "extracted_count": 1,
+    "expected_range": "5.9-20.2",
+    "deviation": "92.3%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "12",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "16.3-50.1",
+    "deviation": "97.0%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "12",
+    "year": 2018,
+    "extracted_count": 1,
+    "expected_range": "16.3-50.1",
+    "deviation": "97.0%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "12",
+    "year": 2020,
+    "extracted_count": 1,
+    "expected_range": "16.3-50.1",
+    "deviation": "97.0%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "12",
+    "year": 2024,
+    "extracted_count": 4,
+    "expected_range": "16.3-50.1",
+    "deviation": "88.0%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "14",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "15.0-48.0",
+    "deviation": "96.8%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "14",
+    "year": 2018,
+    "extracted_count": 2,
+    "expected_range": "15.0-48.0",
+    "deviation": "93.7%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "14",
+    "year": 2020,
+    "extracted_count": 2,
+    "expected_range": "15.0-48.0",
+    "deviation": "93.7%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "14",
+    "year": 2024,
+    "extracted_count": 6,
+    "expected_range": "15.0-48.0",
+    "deviation": "81.0%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "03",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "10.2-24.4",
+    "deviation": "94.2%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "03",
+    "year": 2018,
+    "extracted_count": 1,
+    "expected_range": "10.2-24.4",
+    "deviation": "94.2%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "03",
+    "year": 2024,
+    "extracted_count": 1,
+    "expected_range": "10.2-24.4",
+    "deviation": "94.2%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "13",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "13.1-35.8",
+    "deviation": "95.9%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "13",
+    "year": 2018,
+    "extracted_count": 1,
+    "expected_range": "13.1-35.8",
+    "deviation": "95.9%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "13",
+    "year": 2024,
+    "extracted_count": 2,
+    "expected_range": "13.1-35.8",
+    "deviation": "91.8%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "06",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "3.9-19.0",
+    "deviation": "91.2%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "06",
+    "year": 2018,
+    "extracted_count": 1,
+    "expected_range": "3.9-19.0",
+    "deviation": "91.2%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "05",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "22.5-55.9",
+    "deviation": "97.5%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "05",
+    "year": 2020,
+    "extracted_count": 1,
+    "expected_range": "22.5-55.9",
+    "deviation": "97.5%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "02",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "8.4-18.3",
+    "deviation": "92.5%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "02",
+    "year": 2018,
+    "extracted_count": 1,
+    "expected_range": "8.4-18.3",
+    "deviation": "92.5%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "10",
+    "year": 2017,
+    "extracted_count": 1,
+    "expected_range": "14.5-27.0",
+    "deviation": "95.2%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "08",
+    "year": 2024,
+    "extracted_count": 2,
+    "expected_range": "26.8-44.0",
+    "deviation": "94.4%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "07",
+    "year": 2024,
+    "extracted_count": 5,
+    "expected_range": "17.1-36.5",
+    "deviation": "81.3%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "high",
+    "chapter": "09",
+    "year": 2024,
+    "extracted_count": 1,
+    "expected_range": "14.0-25.5",
+    "deviation": "94.9%",
+    "verification_action": "Check TOC manually"
+  },
+  {
+    "priority": "medium",
+    "chapter": "11",
+    "year": 2024,
+    "extracted_count": 2,
+    "expected_range": "4.4-8.2",
+    "deviation": "68.3%",
+    "verification_action": "Check TOC manually"
+  }
+]

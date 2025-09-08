@@ -1,0 +1,2229 @@
+{
+  "summary": {
+    "documents_analyzed": 316,
+    "perfect_sequences": 316,
+    "documents_with_issues": 0,
+    "total_issues": 0,
+    "sequence_score": 100.0
+  },
+  "issues": {
+    "missing_serials": [],
+    "duplicate_serials": [],
+    "non_consecutive": [],
+    "starting_issues": []
+  },
+  "document_summary": {
+    "06_2001": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2001": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2001": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2001": {
+      "table_count": 29,
+      "serial_range": "1-29",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2001": {
+      "table_count": 23,
+      "serial_range": "1-23",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2001": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2001": {
+      "table_count": 4,
+      "serial_range": "1-4",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2001": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2001": {
+      "table_count": 32,
+      "serial_range": "1-32",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2001": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2001": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2001": {
+      "table_count": 34,
+      "serial_range": "1-34",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2001": {
+      "table_count": 8,
+      "serial_range": "1-8",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2001": {
+      "table_count": 23,
+      "serial_range": "1-23",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2001": {
+      "table_count": 9,
+      "serial_range": "1-9",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2002": {
+      "table_count": 8,
+      "serial_range": "1-8",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2002": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2002": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2002": {
+      "table_count": 29,
+      "serial_range": "1-29",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2002": {
+      "table_count": 38,
+      "serial_range": "1-38",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2002": {
+      "table_count": 26,
+      "serial_range": "1-26",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2002": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2002": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2002": {
+      "table_count": 27,
+      "serial_range": "1-27",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2002": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2002": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2002": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2002": {
+      "table_count": 8,
+      "serial_range": "1-8",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2002": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2002": {
+      "table_count": 9,
+      "serial_range": "1-9",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2003": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2003": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2003": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2003": {
+      "table_count": 31,
+      "serial_range": "1-31",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2003": {
+      "table_count": 49,
+      "serial_range": "1-49",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2003": {
+      "table_count": 27,
+      "serial_range": "1-27",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2003": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2003": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2003": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2003": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2003": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2003": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2003": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2003": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2003": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2004": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2004": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2004": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2004": {
+      "table_count": 40,
+      "serial_range": "1-40",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2004": {
+      "table_count": 43,
+      "serial_range": "1-43",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2004": {
+      "table_count": 31,
+      "serial_range": "1-31",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2004": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2004": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2004": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2004": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2004": {
+      "table_count": 38,
+      "serial_range": "1-38",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2004": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2004": {
+      "table_count": 16,
+      "serial_range": "1-16",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2005": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2005": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2005": {
+      "table_count": 18,
+      "serial_range": "1-18",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2005": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2005": {
+      "table_count": 23,
+      "serial_range": "1-23",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2005": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2005": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2005": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2005": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2005": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2005": {
+      "table_count": 28,
+      "serial_range": "1-28",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2005": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2005": {
+      "table_count": 12,
+      "serial_range": "1-12",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2005": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2006": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2006": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2006": {
+      "table_count": 23,
+      "serial_range": "1-23",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2006": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2006": {
+      "table_count": 30,
+      "serial_range": "1-30",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2006": {
+      "table_count": 33,
+      "serial_range": "1-33",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2006": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2006": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2006": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2006": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2006": {
+      "table_count": 12,
+      "serial_range": "1-12",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2006": {
+      "table_count": 38,
+      "serial_range": "1-38",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2006": {
+      "table_count": 4,
+      "serial_range": "1-4",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2006": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2006": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2007": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2007": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2007": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2007": {
+      "table_count": 33,
+      "serial_range": "1-33",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2007": {
+      "table_count": 33,
+      "serial_range": "1-33",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2007": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2007": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2007": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2007": {
+      "table_count": 30,
+      "serial_range": "1-30",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2007": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2007": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2007": {
+      "table_count": 37,
+      "serial_range": "1-37",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2007": {
+      "table_count": 8,
+      "serial_range": "1-8",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2007": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2007": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2008": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2008": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2008": {
+      "table_count": 18,
+      "serial_range": "1-18",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2008": {
+      "table_count": 41,
+      "serial_range": "1-41",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2008": {
+      "table_count": 34,
+      "serial_range": "1-34",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2008": {
+      "table_count": 42,
+      "serial_range": "1-42",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2008": {
+      "table_count": 12,
+      "serial_range": "1-12",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2008": {
+      "table_count": 23,
+      "serial_range": "1-23",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2008": {
+      "table_count": 34,
+      "serial_range": "1-34",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2008": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2008": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2008": {
+      "table_count": 43,
+      "serial_range": "1-43",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2008": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2008": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2008": {
+      "table_count": 8,
+      "serial_range": "1-8",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2009": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2009": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2009": {
+      "table_count": 39,
+      "serial_range": "1-39",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2009": {
+      "table_count": 40,
+      "serial_range": "1-40",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2009": {
+      "table_count": 41,
+      "serial_range": "1-41",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2009": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2009": {
+      "table_count": 23,
+      "serial_range": "1-23",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2009": {
+      "table_count": 29,
+      "serial_range": "1-29",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2009": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2009": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2009": {
+      "table_count": 45,
+      "serial_range": "1-45",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2009": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2009": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2009": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2010": {
+      "table_count": 16,
+      "serial_range": "1-16",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2010": {
+      "table_count": 23,
+      "serial_range": "1-23",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2010": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2010": {
+      "table_count": 43,
+      "serial_range": "1-43",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2010": {
+      "table_count": 39,
+      "serial_range": "1-39",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2010": {
+      "table_count": 43,
+      "serial_range": "1-43",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2010": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2010": {
+      "table_count": 34,
+      "serial_range": "1-34",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2010": {
+      "table_count": 33,
+      "serial_range": "1-33",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2010": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2010": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2010": {
+      "table_count": 39,
+      "serial_range": "1-39",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2010": {
+      "table_count": 9,
+      "serial_range": "1-9",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2010": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2010": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2011": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2011": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2011": {
+      "table_count": 28,
+      "serial_range": "1-28",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2011": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2011": {
+      "table_count": 46,
+      "serial_range": "1-46",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2011": {
+      "table_count": 50,
+      "serial_range": "1-50",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2011": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2011": {
+      "table_count": 28,
+      "serial_range": "1-28",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2011": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2011": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2011": {
+      "table_count": 16,
+      "serial_range": "1-16",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2011": {
+      "table_count": 44,
+      "serial_range": "1-44",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2011": {
+      "table_count": 12,
+      "serial_range": "1-12",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2011": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2011": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2012": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2012": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2012": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2012": {
+      "table_count": 38,
+      "serial_range": "1-38",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2012": {
+      "table_count": 57,
+      "serial_range": "1-57",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2012": {
+      "table_count": 59,
+      "serial_range": "1-59",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2012": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2012": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2012": {
+      "table_count": 41,
+      "serial_range": "1-41",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2012": {
+      "table_count": 31,
+      "serial_range": "1-31",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2012": {
+      "table_count": 18,
+      "serial_range": "1-18",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2012": {
+      "table_count": 55,
+      "serial_range": "1-55",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2012": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2012": {
+      "table_count": 31,
+      "serial_range": "1-31",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2012": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2013": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2013": {
+      "table_count": 18,
+      "serial_range": "1-18",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2013": {
+      "table_count": 24,
+      "serial_range": "1-24",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2013": {
+      "table_count": 40,
+      "serial_range": "1-40",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2013": {
+      "table_count": 49,
+      "serial_range": "1-49",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2013": {
+      "table_count": 43,
+      "serial_range": "1-43",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2013": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2013": {
+      "table_count": 33,
+      "serial_range": "1-33",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2013": {
+      "table_count": 29,
+      "serial_range": "1-29",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2013": {
+      "table_count": 18,
+      "serial_range": "1-18",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2013": {
+      "table_count": 18,
+      "serial_range": "1-18",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2013": {
+      "table_count": 60,
+      "serial_range": "1-60",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2013": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2013": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2014": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2014": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2014": {
+      "table_count": 26,
+      "serial_range": "1-26",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2014": {
+      "table_count": 42,
+      "serial_range": "1-42",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2014": {
+      "table_count": 59,
+      "serial_range": "1-59",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2014": {
+      "table_count": 45,
+      "serial_range": "1-45",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2014": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2014": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2014": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2014": {
+      "table_count": 25,
+      "serial_range": "1-25",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2014": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2014": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2014": {
+      "table_count": 14,
+      "serial_range": "1-14",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2014": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2015": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2015": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2015": {
+      "table_count": 29,
+      "serial_range": "1-29",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2015": {
+      "table_count": 38,
+      "serial_range": "1-38",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2015": {
+      "table_count": 60,
+      "serial_range": "1-60",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2015": {
+      "table_count": 52,
+      "serial_range": "1-52",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2015": {
+      "table_count": 12,
+      "serial_range": "1-12",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2015": {
+      "table_count": 39,
+      "serial_range": "1-39",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2015": {
+      "table_count": 33,
+      "serial_range": "1-33",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2015": {
+      "table_count": 26,
+      "serial_range": "1-26",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2015": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2015": {
+      "table_count": 42,
+      "serial_range": "1-42",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "15_2015": {
+      "table_count": 12,
+      "serial_range": "1-12",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2015": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2015": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2016": {
+      "table_count": 18,
+      "serial_range": "1-18",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2016": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2016": {
+      "table_count": 44,
+      "serial_range": "1-44",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2016": {
+      "table_count": 67,
+      "serial_range": "1-67",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2016": {
+      "table_count": 52,
+      "serial_range": "1-52",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2016": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2016": {
+      "table_count": 40,
+      "serial_range": "1-40",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2016": {
+      "table_count": 33,
+      "serial_range": "1-33",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2016": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2016": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2016": {
+      "table_count": 45,
+      "serial_range": "1-45",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2016": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2017": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2017": {
+      "table_count": 2,
+      "serial_range": "1-2",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2018": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2018": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2018": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2018": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2018": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2018": {
+      "table_count": 2,
+      "serial_range": "1-2",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2018": {
+      "table_count": 2,
+      "serial_range": "1-2",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2019": {
+      "table_count": 7,
+      "serial_range": "1-7",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2019": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2019": {
+      "table_count": 22,
+      "serial_range": "1-22",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2019": {
+      "table_count": 43,
+      "serial_range": "1-43",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2019": {
+      "table_count": 46,
+      "serial_range": "1-46",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2019": {
+      "table_count": 44,
+      "serial_range": "1-44",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2019": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2019": {
+      "table_count": 38,
+      "serial_range": "1-38",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2019": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2019": {
+      "table_count": 20,
+      "serial_range": "1-20",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2019": {
+      "table_count": 16,
+      "serial_range": "1-16",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2019": {
+      "table_count": 36,
+      "serial_range": "1-36",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2019": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2019": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2020": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2020": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2020": {
+      "table_count": 2,
+      "serial_range": "1-2",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2020": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2021": {
+      "table_count": 4,
+      "serial_range": "1-4",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2021": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2021": {
+      "table_count": 21,
+      "serial_range": "1-21",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2021": {
+      "table_count": 40,
+      "serial_range": "1-40",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2021": {
+      "table_count": 39,
+      "serial_range": "1-39",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2021": {
+      "table_count": 39,
+      "serial_range": "1-39",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2021": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2021": {
+      "table_count": 29,
+      "serial_range": "1-29",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2021": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2021": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2021": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2021": {
+      "table_count": 26,
+      "serial_range": "1-26",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2021": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2021": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2022": {
+      "table_count": 4,
+      "serial_range": "1-4",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2022": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2022": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2022": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2022": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2022": {
+      "table_count": 40,
+      "serial_range": "1-40",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2022": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2022": {
+      "table_count": 27,
+      "serial_range": "1-27",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2022": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2022": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2022": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2022": {
+      "table_count": 26,
+      "serial_range": "1-26",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2022": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2022": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "06_2023": {
+      "table_count": 4,
+      "serial_range": "1-4",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2023": {
+      "table_count": 15,
+      "serial_range": "1-15",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "10_2023": {
+      "table_count": 19,
+      "serial_range": "1-19",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2023": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "05_2023": {
+      "table_count": 35,
+      "serial_range": "1-35",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2023": {
+      "table_count": 40,
+      "serial_range": "1-40",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "04_2023": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2023": {
+      "table_count": 27,
+      "serial_range": "1-27",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2023": {
+      "table_count": 11,
+      "serial_range": "1-11",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2023": {
+      "table_count": 17,
+      "serial_range": "1-17",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "02_2023": {
+      "table_count": 10,
+      "serial_range": "1-10",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2023": {
+      "table_count": 28,
+      "serial_range": "1-28",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2023": {
+      "table_count": 13,
+      "serial_range": "1-13",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2023": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "03_2024": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "08_2024": {
+      "table_count": 2,
+      "serial_range": "1-2",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "12_2024": {
+      "table_count": 4,
+      "serial_range": "1-4",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "13_2024": {
+      "table_count": 2,
+      "serial_range": "1-2",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "07_2024": {
+      "table_count": 5,
+      "serial_range": "1-5",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "09_2024": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "14_2024": {
+      "table_count": 6,
+      "serial_range": "1-6",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "01_2024": {
+      "table_count": 1,
+      "serial_range": "1-1",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    },
+    "11_2024": {
+      "table_count": 2,
+      "serial_range": "1-2",
+      "is_consecutive": true,
+      "starts_with_one": true,
+      "has_duplicates": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "document": "01_2012",
+    "priority": "IMMEDIATE",
+    "risk_score": 29,
+    "key_issues": [
+      "table_truncated_tables",
+      "table_truncated_tables",
+      "table_truncated_tables"
+    ],
+    "action": "Manual TOC verification required"
+  },
+  {
+    "document": "07_2011",
+    "priority": "IMMEDIATE",
+    "risk_score": 25,
+    "key_issues": [
+      "table_truncated_tables",
+      "table_truncated_tables",
+      "table_truncated_tables"
+    ],
+    "action": "Manual TOC verification required"
+  },
+  {
+    "document": "07_2019",
+    "priority": "IMMEDIATE",
+    "risk_score": 24,
+    "key_issues": [
+      "table_truncated_tables",
+      "table_truncated_tables",
+      "table_truncated_tables"
+    ],
+    "action": "Manual TOC verification required"
+  },
+  {
+    "document": "07_2012",
+    "priority": "HIGH",
+    "risk_score": 19,
+    "key_issues": [
+      "table_truncated_tables",
+      "table_truncated_tables",
+      "table_truncated_tables"
+    ],
+    "action": "Manual TOC verification required"
+  },
+  {
+    "document": "07_2013",
+    "priority": "HIGH",
+    "risk_score": 19,
+    "key_issues": [
+      "table_truncated_tables",
+      "table_truncated_tables",
+      "table_truncated_tables"
+    ],
+    "action": "Manual TOC verification required"
+  },
+  {
+    "document": "14_2015",
+    "priority": "HIGH",
+    "risk_score": 19,
+    "key_issues": [
+      "table_truncated_tables",
+      "table_truncated_tables",
+      "table_truncated_tables"
+    ],
+    "action": "Manual TOC verification required"
+  },
+  {
+    "document": "07_2014",
+    "priority": "HIGH",
+    "risk_score": 16,
+    "key_issues": [
+      "table_truncated_tables",
+      "table_truncated_tables",
+      "table_truncated_tables"
+    ],
+    "action": "Manual TOC verification required"
+  }
+]
