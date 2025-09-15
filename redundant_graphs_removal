@@ -1,0 +1,8 @@
+{
+    "config": {
+        "action": {
+            "type": "print",
+            "args": ["hello"]
+        }
+    }
+}
